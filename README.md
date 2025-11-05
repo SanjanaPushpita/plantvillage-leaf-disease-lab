@@ -29,7 +29,7 @@ pip install torch torchvision kagglehub pandas scikit-learn tqdm matplotlib
 
 ## Usage
 1. **Clone the repository** (see instructions below).
-2. Launch Jupyter Lab/Notebook or VS Code and open `simple_leaf_disease_trainer.ipynb`. If GitHub fails to render the notebook, open the public Colab copy instead: [Colab notebook](https://colab.research.google.com/drive/1nAhQcZPgXUnBYXZquXuVTwRSZ0Ni1sKX?usp=sharing).
+2. Launch Jupyter Lab/Notebook or VS Code and open `fixed_Leaf_disease_trainer.ipynb`.
 3. Execute the cells in order:
    - Section 1 installs packages if needed.
    - Section 2 sets hyperparameters and device configuration.
@@ -105,3 +105,4 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for details.
 
 ---
 Crafted with ❤️ by **Maliha Sanjana**.
+
